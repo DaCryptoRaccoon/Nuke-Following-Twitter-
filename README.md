@@ -1,7 +1,7 @@
 # Nuke-Following-Twitter-
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/DaCryptoRaccoon/Nuke-Following-Twitter">
+  <img src="https://img.shields.io/github/License/DaCryptoRaccoon/Nuke-Following-Twitter">
   <img src="https://img.shields.io/github/languages/top/DaCryptoRaccoon/Nuke-Following-Twitter">
 </p>
 
