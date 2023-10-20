@@ -1,10 +1,5 @@
 # Nuke-Following-Twitter-
 
-<p align="center">
-  <img src="https://img.shields.io/github/License/DaCryptoRaccoon/Nuke-Following-Twitter">
-  <img src="https://img.shields.io/github/languages/top/DaCryptoRaccoon/Nuke-Following-Twitter">
-</p>
-
 This script is designed to unfollow multiple users on a social media platform automatically. It is built using JavaScript and can be executed in the browser's console.
 
 Usage
